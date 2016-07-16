@@ -11,4 +11,4 @@ Expects features to have corresponding labels in a `.txt`, with one label on eac
 * tornado
 * torchfile
 * ujson
-* futures (`pip install futures` if you are using Python 2.x)
+* futures (included in Python 3.2 and up, `pip install futures` if you are using Python 2.x)
